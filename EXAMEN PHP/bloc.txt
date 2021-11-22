@@ -1,0 +1,6 @@
+  $recoge1 = $_POST["entrada1"];
+        $recoge2 = $_POST["entrada2"];
+        $recoge3 = $_POST["entrada3"];
+        $recoge4 = $_POST["entrada4"];
+        $recoge5 = $_POST["entrada5"];
+        $operador = $_POST["despliega"];
