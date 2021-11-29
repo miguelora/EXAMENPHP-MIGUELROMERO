@@ -29,6 +29,7 @@
         $res = $saldo*0.45;
         print "Tiene que pagar : ".$res;
       }
+      
     
       
     
